@@ -1,3 +1,12 @@
+# Shivani's First CS193 Homework
+
+### Some things I like about CS193
+
+- The people! Everyone seems so cool and it's great how we are all in similar majors and share common interests.
+- The TAs! They seem so knowledgeable and fun and approachable.
+- The fact that we do not have any proper exams. Phew.
+- EVERYTHING!!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
